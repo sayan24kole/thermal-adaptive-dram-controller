@@ -1,0 +1,23 @@
+# Vivado temporary and run files
+*.jou
+*.log
+*.str
+*.dcp
+*.rpt
+*.bit
+*.bin
+*.ltx
+*.hw/
+*.ip_user_files/
+*.cache/
+*.runs/
+*.sim/
+*.gen/
+
+# Vivado project work directories
+.Xil/
+hd_visual/
+
+# OS-specific
+.DS_Store
+Thumbs.db
