@@ -43,7 +43,7 @@ LM35 Sensor -------+--> [ XADC Reader ]                                         
                    |                      v                                      |
                    |         [ Vivado JTAG VIO Dashboard ]                       |
                    +-------------------------------------------------------------+
-
+```
 ## Hardware Bill of Materials (BOM)
 
 | Component | Quantity | Purpose |
@@ -68,7 +68,7 @@ LM35 Sensor -------+--> [ XADC Reader ]                                         
            |
            +---- [ 10 kΩ ] ----+----> Safe Output Node (0.5x Vout) ---> Zybo Pmod JA Pin 2 (L14)
                                |
-
+```
 ### 2. Zybo Z7 Pin Mapping
 
 | Port Name | Direction | Zybo Pin | Description |
